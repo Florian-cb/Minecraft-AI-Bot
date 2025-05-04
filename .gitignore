@@ -1,1 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
 .env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional OS-specific clutter
+.DS_Store
+
+# VS Code settings (optional if you use VS Code)
+.vscode/
+
+# Mac system files
+._*
+
+# Backup files
+*.bak
+*.swp
