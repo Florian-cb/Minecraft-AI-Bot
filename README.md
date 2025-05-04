@@ -1,4 +1,3 @@
-## 🎥 Demo
+“Built an AI-powered Minecraft companion using Node.js + OpenAI. Ask it questions, get minecraft tips, and it’ll follow you around the world. Demo below 👇”
 
-Check out BuddyBot in action:
-[[[![Watch the =JgVYcev59RE)](https://www.youtube.com/watch?v=JgVYcev59RE)
+https://youtu.be/JgVYcev59RE
